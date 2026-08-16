@@ -4,7 +4,7 @@ My personal portfolio site. It shows who I am, the projects I've built, and how 
 
 I am Lyhorng Heng, a Computer Science and Mathematics student. I built this to have one place to point people to instead of sending scattered links.
 
-**Live site:** 
+**Live site:** https://lyhorngheng.com
 
 ## Built with
 
