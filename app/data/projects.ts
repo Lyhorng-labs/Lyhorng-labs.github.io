@@ -25,7 +25,7 @@ export const projects: Project[]=[
         slug: "math12",
         title:"Math 12 - Khmer Grade 12 Math Practice Web",
         description:"A web app that generates Khmer-language Grade 12 math exercises and step-by-step solutions using AI, with progress tracking and an admin dashboard.",
-        tech:["Javascript", "HTML/CSS"],
+        tech:["Javascript", "HTML/CSS", "Node.js/Express", "Supabase (Postgres)", "Google Gemini API"],
         image: "/Math12.png",
         link:"https://fullstack-math-ai.pages.dev/",
         github:"https://github.com/Lyhorng-labs/FullStack-Math-AI",

@@ -62,6 +62,14 @@ export default async function ProjectPage({
       </p>
 
       <div className="mt-10 flex flex-wrap gap-4">
+        {project.link && (
+          <a href={project.link}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-full bg-cyan-500 px-5 py-2.5 text-sm font-semibold text-slate-950 transition-colors hover:bg-cyan-400">
+            Visit site ↗
+          </a>
+        )}
         {project.demo && (
           <a
             href={project.demo}
