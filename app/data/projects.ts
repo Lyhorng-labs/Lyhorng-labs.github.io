@@ -15,7 +15,7 @@ export const projects: Project[]=[
         description:"An interactive application-security platform that safely executes untrusted Python code in real-time using AST parsing and process isolation.",
         tech:["Python", "FastAPI", "SQLite", "JavaScript", "HTML/CSS"],
         image: "/CTF-ENGINE.png",
-        link: "ctf-engine.onrender.com",
+        link: "https://ctf-engine.onrender.com",
         github:"https://github.com/Lyhorng-labs/CTF-Engine",
         demo: "https://youtu.be/Z8sE0C4ZRNc?si=6raX52ymydz1cIHo",
 
