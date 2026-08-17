@@ -43,7 +43,7 @@ export const projects: Project[]=[
     },
     {
         slug: "donut-mobile-order",
-        title:"Donut Mobile Order",
+        title:"Donut Mobile Order - Multi-Tenant Shop Ordering App",
         description:"A mobile ordering app for donut shops. Each shop gets its own storefront on a subdomain (like pinkdonuts.example.com), can build out its menu, and take orders with card payments or pay-at-counter.",
         tech:["Next.js", "React", "TypeScript", "Tailwind CSS 4", "Node.js", "Express", " auth, realtime: Supabase (Postgres)","Stripe"],
         image: "/donut-hub.png",
