@@ -22,6 +22,17 @@ export const projects: Project[]=[
 
     },
     {
+        slug: "agent-operation-center",
+        title:"Agent Operations Center | WebMCP Challenge",
+        description:"A web-based incident-response control center where an AI agent investigates production-style incidents, gathers evidence, identifies root causes, and proposes remediation that requires human approval.",
+        tech:[ "Next.js","React","TypeScript", "Tailwind CSS","WebMCP"],
+        image: "/webmcp.png",
+        link:"https://web-mcp-agent-operation-center.vercel.app",
+        github:"https://github.com/Lyhorng-labs/WebMCP-Agent-Operation-Center",
+        demo: "https://youtu.be/oufaVmQJva8?si=IhDSejMx6ss_pDY_",
+
+    },
+    {
         slug: "math12",
         title:"Math 12 - Khmer Grade 12 Math Practice Web",
         description:"A web app that generates Khmer-language Grade 12 math exercises and step-by-step solutions using AI, with progress tracking and an admin dashboard.",
