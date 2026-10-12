@@ -19,7 +19,7 @@ export default function ContactPage() {
           >
             <p className="text-sm text-slate-400">Email</p>
             <p className="mt-1 font-medium text-white group-hover:text-cyan-300">
-              lyhorngheng278@gmail.com
+              lyhorngheng086@gmail.com
             </p>
           </a>
 
