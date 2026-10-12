@@ -15,7 +15,7 @@ export default function ContactPage() {
         <div className="mt-10 grid gap-4 sm:grid-cols-2">
           <a
             href="mailto:lyhorngheng278@gmail.com"
-            className="group rounded-2xl border border-white/10 bg-white/[0.02] p-6 transition-all hover:-translate-y-1 hover:border-cyan-400/40 hover:bg-white/[0.04]"
+            className="group rounded-2xl border border-white/10 bg-white/[0.02] p-6 transition-all hover:-translate-y-1 hover:border-cyan-400/40 hover:bg-white/4"
           >
             <p className="text-sm text-slate-400">Email</p>
             <p className="mt-1 font-medium text-white group-hover:text-cyan-300">
@@ -27,7 +27,7 @@ export default function ContactPage() {
             href="https://github.com/Lyhorng-labs"
             target="_blank"
             rel="noopener noreferrer"
-            className="group rounded-2xl border border-white/10 bg-white/[0.02] p-6 transition-all hover:-translate-y-1 hover:border-cyan-400/40 hover:bg-white/[0.04]"
+            className="group rounded-2xl border border-white/10 bg-white/[0.02] p-6 transition-all hover:-translate-y-1 hover:border-cyan-400/40 hover:bg-white/4"
           >
             <p className="text-sm text-slate-400">GitHub</p>
             <p className="mt-1 font-medium text-white group-hover:text-cyan-300">

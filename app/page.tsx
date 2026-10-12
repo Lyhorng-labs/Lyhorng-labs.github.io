@@ -53,6 +53,15 @@ export default function Home() {
                 >
                   Get in touch
                 </a>
+
+                <a
+                  href="/resume.pdf"
+                  className="rounded-full border border-white/15 px-6 py-3 text-sm font-semibold text-white transition-colors hover:border-cyan-400/50 hover:text-cyan-300"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View My Resume
+                </a>
               </div>
 
               <div className="mt-8 flex gap-5 text-sm text-slate-400">
